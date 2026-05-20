@@ -1,13 +1,13 @@
-package com.example.example_demo;
+package com.example.SquareGame;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class ExampleDemoApplication {
+public class SquareGameApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(ExampleDemoApplication.class, args);
+		SpringApplication.run(SquareGameApplication.class, args);
 	}
 
 }
