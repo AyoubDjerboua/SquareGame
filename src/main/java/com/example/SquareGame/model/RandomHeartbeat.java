@@ -1,4 +1,4 @@
-package com.example.SquareGame;
+package com.example.SquareGame.model;
 
 import java.util.Random;
 

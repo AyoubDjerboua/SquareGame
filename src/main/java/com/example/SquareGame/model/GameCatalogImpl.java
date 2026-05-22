@@ -1,4 +1,4 @@
-package com.example.SquareGame;
+package com.example.SquareGame.model;
 
 import fr.le_campus_numerique.square_games.engine.GameFactory;
 import fr.le_campus_numerique.square_games.engine.tictactoe.TicTacToeGameFactory;
